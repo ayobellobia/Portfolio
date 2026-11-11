@@ -25,6 +25,11 @@ A lightweight implementation of a GPT-like text generation model using LSTM netw
 
 → [`BIA-AI-Assignments/Assignment13.ipynb`](https://github.com/ayobellobia/BIA-AI-Assignments/blob/main/Assignment13.ipynb)
 
+### 🚗 NYC Motor Vehicle Collisions dashboard (Power BI)
+A two-page dashboard on 238,421 New York City motor vehicle collisions (NYPD open data, January 2021 to April 2023): 10 KPI cards for cyclists, motorists, pedestrians and total persons injured and killed, a borough slicer, monthly trend analysis, collisions by day of week and hour of day, top streets, vehicle types and contributing factors — with written insights on each page.
+
+→ [`NYC-collisions-dashboard.pbix`](https://github.com/ayobellobia/Portfolio/blob/main/NYC-collisions-dashboard.pbix) (open in Power BI Desktop)
+
 ## Portfolio samples
 
 Ready-made samples of client-style work (also in this repo):
