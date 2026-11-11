@@ -30,6 +30,12 @@ A two-page dashboard on 238,421 New York City motor vehicle collisions (NYPD ope
 
 → [`NYC-collisions-dashboard.pbix`](https://github.com/ayobellobia/Portfolio/blob/main/NYC-collisions-dashboard.pbix) (open in Power BI Desktop)
 
+![NYC collisions dashboard — page 1](NYC-collisions-page1.png)
+
+![NYC collisions dashboard — page 2](NYC-collisions-page2.png)
+
+[Download the full report (PDF)](NYC-collisions-dashboard.pdf)
+
 ### ☕ Coffee Brand Dashboard (Tableau)
 A dashboard on 1,245 global coffee brands (Coffee Review data): roast origins, roaster locations, types of roast, price per 100g and ratings — with a pie chart, price vs rating, top roasters, a world map of coffee origins and a year breakdown.
 
