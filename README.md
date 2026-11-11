@@ -41,6 +41,8 @@ A dashboard on 1,245 global coffee brands (Coffee Review data): roast origins, r
 
 → [`Coffee-brand-dashboard.twbx`](https://github.com/ayobellobia/Portfolio/blob/main/Coffee-brand-dashboard.twbx) (open in Tableau)
 
+![Coffee Brand Dashboard](Coffee-brand-dashboard.png)
+
 ## Portfolio samples
 
 Ready-made samples of client-style work (also in this repo):
